@@ -1,4 +1,4 @@
-"""Top-level package for BCI-4-ALS."""
+"""Top-level package for BCI-4-ALS"""
 import importlib_metadata
 
 __author__ = """Evyatar Luvaton, Noam Siegel"""
